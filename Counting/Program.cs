@@ -14,6 +14,7 @@ namespace Counting
             {
                 Console.WriteLine(i);
                 Console.WriteLine("Program.Main()");
+                Console.WriteLine("test change 1");
                 Console.ReadKey();
             }
         }
